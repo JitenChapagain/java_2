@@ -1,0 +1,7 @@
+ 1 ram 123.0 kk Pokhara
+ 2 kkkas 321.0 dd Pokhara
+ 3 tej 555.0 moon pokhara
+ 4 Jiten 444.4 Jupiter Pokhara
+ 5 satindra 666.6 Marsh Ktm
+
+
